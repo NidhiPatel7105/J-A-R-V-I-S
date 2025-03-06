@@ -25,13 +25,4 @@ Key Features:
 Follow these steps to set up the project on your local machine:
 
 Clone the Repository:
-git clone https://github.com/Syam-1133/-JARVIS---A-Virtual-Assistant
 
-Run the project
-python -m venv venv
-
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate
-
-pip install -r requirements.txt
-
-python main.py
